@@ -1,0 +1,333 @@
+{
+  "data": [
+    {
+      "category_name": "Signature",
+      "image": "assets/icons/signature.svg",
+      "products": [
+        {
+          "name": "Salmon Teriyaki Bowl",
+          "price": 30000,
+          "description": "Delicious salmon with teriyaki sauce",
+          "imageUrl": "https://img.freepik.com/premium-photo/teriyaki-salmon-with-rice-cucumber-scallions_1077802-456589.jpg?ga=GA1.1.659715270.1750780220&semt=ais_hybrid&w=740",
+          "qty": 0
+        },
+        {
+          "name": "Classic Teriyaki Chicken Bowl",
+          "price": 45000,
+          "description": "Teriyaki chicken with rice and vegetables",
+          "imageUrl": "https://img.freepik.com/premium-photo/teriyaki-chi…=GA1.1.659715270.1750780220&semt=ais_hybrid&w=740",
+          "qty": 0
+        },
+        {
+          "name": "Spicy Beef Bowl",
+          "price": 40000,
+          "description": "Beef slices with spicy sauce",
+          "imageUrl": "https://img.freepik.com/premium-photo/png-meat-food-meal-beef_53876-694138.jpg?ga=GA1.1.659715270.1750780220&semt=ais_hybrid&w=740",
+          "qty": 0
+        },
+        {
+          "name": "Crispy Chicken Bowl",
+          "price": 38000,
+          "description": "Crispy chicken with savory sauce",
+          "imageUrl": "https://img.freepik.com/premium-photo/japanese-dish-with-crispy-fried-chicken-white-rice-creamy-sauce_1077802-455828.jpg?ga=GA1.1.659715270.1750780220&semt=ais_hybrid&w=740",
+          "qty": 0
+        },
+        {
+          "name": "Vegetarian Bowl",
+          "price": 35000,
+          "description": "Healthy vegetarian rice bowl",
+          "imageUrl": "https://img.freepik.com/premium-photo/high-angle-view-chopped-fruits-bowl_1048944-21271660.jpg?ga=GA1.1.659715270.1750780220&semt=ais_hybrid&w=740",
+          "qty": 0
+        }
+      ]
+    },
+    {
+      "category_name": "Coffee",
+      "image": "assets/icons/coffee.svg",
+      "products": [
+        {
+          "name": "Black Coffee",
+          "price": 30000,
+          "description": "Strong and bold black coffee",
+          "imageUrl": "https://img.freepik.com/premium-photo/close-up-coffee-cup-against-white-background_1048944-29492689.jpg?ga=GA1.1.659715270.1750780220&semt=ais_hybrid&w=740",
+          "qty": 0
+        },
+        {
+          "name": "Cappuccino",
+          "price": 40000,
+          "description": "Espresso with steamed milk foam",
+          "imageUrl": "https://www.freeimages.com/photo/cappuccino-1561250",
+          "qty": 0
+        },
+        {
+          "name": "Americano",
+          "price": 30000,
+          "description": "Espresso diluted with hot water",
+          "imageUrl": "https://www.freeimages.com/photo/premium/americano-coffee-2031223",
+          "qty": 0
+        },
+        {
+          "name": "Vanilla Latte",
+          "price": 40000,
+          "description": "Latte with sweet vanilla flavor",
+          "imageUrl": "https://www.freeimages.com/photo/premium/vanilla-latte-2098341",
+          "qty": 0
+        },
+        {
+          "name": "Sakura Latte",
+          "price": 40000,
+          "description": "Floral latte with sakura syrup",
+          "imageUrl": "https://www.freeimages.com/photo/premium/pink-latte-2109487",
+          "qty": 0
+        }
+      ]
+    },
+    {
+      "category_name": "Non-Coffee",
+      "image" : "assets/icons/non-coffee.svg",
+      "products": [
+        {
+          "name": "Lime",
+          "price": 15000,
+          "description": "Refreshing lime drink",
+          "imageUrl": "https://img.freepik.com/premium-photo/gin-fizz-wit…=GA1.1.659715270.1750780220&semt=ais_hybrid&w=740",
+          "qty": 0
+        },
+        {
+          "name": "Orange Juice",
+          "price": 20000,
+          "description": "Freshly squeezed orange juice",
+          "imageUrl": "https://img.freepik.com/premium-photo/orange-juice…=GA1.1.659715270.1750780220&semt=ais_hybrid&w=740",
+          "qty": 0
+        },
+        {
+          "name": "Lemon Tea",
+          "price": 18000,
+          "description": "Iced tea with lemon slice",
+          "imageUrl": "https://www.freeimages.com/photo/iced-tea-lemon-slice-1762345",
+          "qty": 0
+        },
+        {
+          "name": "Strawberry Mojito",
+          "price": 25000,
+          "description": "Mojito with strawberry and mint",
+          "imageUrl": "https://www.freeimages.com/photo/watercolor-mojito-lime-ice-mint-cocktail-vector-isolated-5223773",
+          "qty": 0
+        },
+        {
+          "name": "Apple Sparkle",
+          "price": 22000,
+          "description": "Sparkling apple drink",
+          "imageUrl": "https://www.freeimages.com/photo/cool-long-drink-1326957",
+          "qty": 0
+        }
+      ]
+    },
+    {
+      "category_name": "Main Course",
+      "image" :  "assets/icons/main-course.svg",
+      "products": [
+        {
+          "name": "Grilled Chicken Steak",
+          "price": 55000,
+          "description": "Juicy grilled chicken with herb sauce",
+          "imageUrl": "https://www.freeimages.com/photo/grilled-chicken-steak-1897650",
+          "qty": 0
+        },
+        {
+          "name": "Beef Lasagna",
+          "price": 60000,
+          "description": "Layers of pasta, meat, and cheese",
+          "imageUrl": "https://www.freeimages.com/photo/beef-lasagna-1754321",
+          "qty": 0
+        },
+        {
+          "name": "Seafood Pasta",
+          "price": 62000,
+          "description": "Creamy pasta with shrimp and squid",
+          "imageUrl": "https://www.freeimages.com/photo/seafood-pasta-1643789",
+          "qty": 0
+        },
+        {
+          "name": "Nasi Goreng Special",
+          "price": 35000,
+          "description": "Indonesian fried rice with egg and chicken",
+          "imageUrl": "https://www.freeimages.com/photo/nasi-goreng-rice-1827186",
+          "qty": 0
+        },
+        {
+          "name": "Chicken Katsu Curry",
+          "price": 48000,
+          "description": "Japanese curry with crispy chicken katsu",
+          "imageUrl": "https://www.freeimages.com/photo/chicken-katsu-curry-1725890",
+          "qty": 0
+        }
+      ]
+    },
+    {
+      "category_name": "Dessert",
+      "image" :  "assets/icons/dessert.svg",
+      "products": [
+        {
+          "name": "Chocolate Lava Cake",
+          "price": 30000,
+          "description": "Warm chocolate cake with molten center",
+          "imageUrl": "https://www.freeimages.com/photo/chocolate-lava-cake-1894561",
+          "qty": 0
+        },
+        {
+          "name": "Panna Cotta",
+          "price": 28000,
+          "description": "Italian creamy dessert with fruit sauce",
+          "imageUrl": "https://www.freeimages.com/photo/panna-cotta-raspberries-1512700",
+          "qty": 0
+        },
+        {
+          "name": "Tiramisu",
+          "price": 35000,
+          "description": "Layered dessert with coffee and mascarpone",
+          "imageUrl": "https://www.freeimages.com/photo/tiramisu-desserts-5695916",
+          "qty": 0
+        },
+        {
+          "name": "Matcha Cheesecake",
+          "price": 32000,
+          "description": "Creamy cheesecake with matcha flavor",
+          "imageUrl": "https://www.freeimages.com/photo/matcha-cheesecake-2034452",
+          "qty": 0
+        },
+        {
+          "name": "Fruit Parfait",
+          "price": 25000,
+          "description": "Layered dessert with fruit and cream",
+          "imageUrl": "https://www.freeimages.com/photo/fruit-parfait-1767823",
+          "qty": 0
+        }
+      ]
+    },
+    {
+      "category_name": "Pastry",
+      "image" :  "assets/icons/pastry.svg",
+      "products": [
+        {
+          "name": "Croissant",
+          "price": 18000,
+          "description": "Flaky buttery French pastry",
+          "imageUrl": "https://www.freeimages.com/photo/premium/croissant-butter-1645789",
+          "qty": 0
+        },
+        {
+          "name": "Pain au Chocolat",
+          "price": 20000,
+          "description": "Chocolate-filled croissant",
+          "imageUrl": "https://www.freeimages.com/photo/pain-au-chocolat-1728390",
+          "qty": 0
+        },
+        {
+          "name": "Apple Turnover",
+          "price": 22000,
+          "description": "Pastry with apple cinnamon filling",
+          "imageUrl": "https://www.freeimages.com/photo/apple-turnover-1839457",
+          "qty": 0
+        },
+        {
+          "name": "Almond Danish",
+          "price": 23000,
+          "description": "Danish pastry with almond glaze",
+          "imageUrl": "https://www.freeimages.com/photo/almond-danish-1902345",
+          "qty": 0
+        },
+        {
+          "name": "Cinnamon Roll",
+          "price": 21000,
+          "description": "Sweet roll with cinnamon swirl",
+          "imageUrl": "https://www.freeimages.com/photo/cinnamon-roll-1789452",
+          "qty": 0
+        }
+      ]
+    },
+    {
+      "category_name": "Breakfast",
+      "image" : "assets/icons/breakfast.svg",
+      "products": [
+        {
+          "name": "English Breakfast",
+          "price": 55000,
+          "description": "Eggs, sausage, toast, beans, and veggies",
+          "imageUrl": "https://www.freeimages.com/photo/english-breakfast-full-platter-1998450",
+          "qty": 0
+        },
+        {
+          "name": "Avocado Toast",
+          "price": 30000,
+          "description": "Toast with smashed avocado and eggs",
+          "imageUrl": "https://www.freeimages.com/photo/avocado-toast-1785634",
+          "qty": 0
+        },
+        {
+          "name": "Breakfast Burrito",
+          "price": 35000,
+          "description": "Tortilla filled with eggs, cheese, and meat",
+          "imageUrl": "https://www.freeimages.com/photo/breakfast-burrito-1852341",
+          "qty": 0
+        },
+        {
+          "name": "Pancakes with Maple Syrup",
+          "price": 32000,
+          "description": "Fluffy pancakes with syrup and butter",
+          "imageUrl": "https://www.freeimages.com/photo/pancakes-maple-syrup-1906742",
+          "qty": 0
+        },
+        {
+          "name": "Granola Bowl",
+          "price": 28000,
+          "description": "Granola with yogurt and fresh fruits",
+          "imageUrl": "https://www.freeimages.com/photo/granola-bowl-1723984",
+          "qty": 0
+        }
+      ]
+    },
+    {
+      "category_name": "Salad",
+      "image" : "assets/icons/salad.svg",
+
+      "products": [
+        {
+          "name": "Caesar Salad",
+          "price": 30000,
+          "description": "Classic salad with lettuce and croutons",
+          "imageUrl": "https://www.freeimages.com/photo/caesar-salad-1834763",
+          "qty": 0
+        },
+        {
+          "name": "Greek Salad",
+          "price": 28000,
+          "description": "Fresh salad with feta cheese and olives",
+          "imageUrl": "https://www.freeimages.com/photo/greek-salad-1892034",
+          "qty": 0
+        },
+        {
+          "name": "Quinoa Salad",
+          "price": 32000,
+          "description": "Healthy salad with quinoa and veggies",
+          "imageUrl": "https://www.freeimages.com/photo/quinoa-salad-1759823",
+          "qty": 0
+        },
+        {
+          "name": "Fruit Salad",
+          "price": 25000,
+          "description": "Mixed seasonal fruits",
+          "imageUrl": "https://www.freeimages.com/photo/fruit-salad-1876234",
+          "qty": 0
+        },
+        {
+          "name": "Chicken Avocado Salad",
+          "price": 35000,
+          "description": "Grilled chicken with fresh avocado",
+          "imageUrl": "https://www.freeimages.com/photo/chicken-avocado-salad-1945781",
+          "qty": 0
+        }
+      ]
+    }
+  ]
+}

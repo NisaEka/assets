@@ -1,0 +1,78 @@
+{
+  "fields": [
+    {
+      "name": "Temperature",
+      "required": true,
+      "maxChoice": 1,
+      "options": [
+        { "isSelected" : false, "name": "Iced", "price": 0 },
+        { "isSelected" : false, "name": "Hot", "price": 0 }
+      ]
+    },
+    {
+      "name": "Cup Size",
+      "required": true,
+      "maxChoice": 1,
+      "options": [
+        { "isSelected" : false, "name": "Regular", "price": 0 },
+        { "isSelected" : false, "name": "Large", "price": 4000 },
+        { "isSelected" : false, "name": "Jumbo", "price": 7000 }
+      ]
+    },
+    {
+      "name": "Ice Cube",
+      "required": true,
+      "maxChoice": 1,
+      "options": [
+        { "isSelected" : false, "name": "Normal Ice", "price": 0 },
+        { "isSelected" : false, "name": "Less Ice", "price": 0 },
+        { "isSelected" : false, "name": "More Ice", "price": 0 },
+        { "isSelected" : false, "name": "No Ice", "price": 0 }
+      ]
+    },
+    {
+      "name": "Espresso",
+      "required": true,
+      "maxChoice": 1,
+      "options": [
+        { "isSelected" : false, "name": "Normal Shot", "price": 0 },
+        { "isSelected" : false, "name": "+1 Shot", "price": 7000 },
+        { "isSelected" : false, "name": "+2 Shot", "price": 14000 },
+        { "isSelected" : false, "name": "+3 Shot", "price": 21000 }
+      ]
+    },
+    {
+      "name": "Dairy",
+      "required": true,
+      "maxChoice": 1,
+      "options": [
+        { "isSelected" : false, "name": "Milk", "price": 0 },
+        { "isSelected" : false, "name": "Soy Multigrain", "price": 7000 },
+        { "isSelected" : false, "name": "Oat Milk", "price": 15000 },
+        { "isSelected" : false, "name": "Almond Milk", "price": 15000 }
+      ]
+    },
+    {
+      "name": "Syrup",
+      "required": false,
+      "maxChoice": 2,
+      "options": [
+        { "isSelected" : false, "name": "Vanilla", "price": 7000 },
+        { "isSelected" : false, "name": "Hazelnut", "price": 7000 },
+        { "isSelected" : false, "name": "Pandan", "price": 7000 },
+        { "isSelected" : false, "name": "Salted Caramel", "price": 7000 }
+      ]
+    },
+    {
+      "name": "Topping",
+      "required": false,
+      "maxChoice": 2,
+      "options": [
+        { "isSelected" : false, "name": "Crumble", "price": 7000 },
+        { "isSelected" : false, "name": "Sea Salt Cream", "price": 7000 },
+        { "isSelected" : false, "name": "Milo Powder", "price": 7000 },
+        { "isSelected" : false, "name": "Caramel Sauce", "price": 7000 }
+      ]
+    }
+  ]
+}

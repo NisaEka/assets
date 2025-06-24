@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "image": "assets/images/delivery.png",
+      "title": "Delivery"
+    },
+    {
+      "image": "assets/images/pickup.png",
+      "title": "Pickup"
+    },
+    {
+      "image": "assets/images/dineIn.png",
+      "title": "Dine In"
+    }
+  ]
+}
